@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+
+.buttonContainer {
+    margin: auto;
+    width: 75%;
+    position: relative;
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+
+.buttonContainer > .buttonClass {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+    background-color: rgb(50, 182, 182);
+    color: white;
+}
+
+.name {
+    color: rgb(247, 247, 72);
+    text-align: center;
+    text-shadow: 1px 1px rgba(0,0,0,.2);
+}
+
+#btn5:hover {
+    background-color: lightblue;
+}
